@@ -1,0 +1,48 @@
+29-11-2024 , 02:42 PM
+
+Customer Name: Tasve al samir             ,Appear : 1
+
+B-10,Plain Rice,3,90.00
+B-4,Shorshe Ilish,2,599.98
+Total (After Tax + Discount) - 710.98
+
+
+29-11-2024 , 02:44 PM
+
+Customer Name: Tasve                      ,Appear : 2
+
+B-10,Plain Rice,3,90.00
+B-4,Shorshe Ilish,2,599.98
+Total (After Tax + Discount) - 710.98
+
+
+29-11-2024 , 02:45 PM
+
+Customer Name: Tasve                      ,Appear : 3
+
+B-1,Alu Puri,6,90.00
+B-4,Shorshe Ilish,2,599.98
+Total (After Tax + Discount) - 711.00
+
+
+
+
+29-11-2024 , 02:58 PM
+
+Customer Name: Tasve                      ,Appear : 4
+
+29-11-2024 , 02:59 PM
+
+Customer Name: tasve                      ,Appear : 5
+
+29-11-2024 , 03:02 PM
+
+Customer Name: Tasve Al Samir             ,Appear : 6
+
+B-1,Alu Puri,5,75.00
+B-3,Fish Fry,3,450.00
+Total (After Tax + Discount) - 504.00
+
+
+
+

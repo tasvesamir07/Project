@@ -1,0 +1,11 @@
+29-11-2024 , 03:59 PM
+
+Customer Name: Nusrat Tasnim              ,Appear : 1
+
+B-18,Mishti Doi,2,100.00
+B-16,Rasgulla ,5,200.00
+A-15,French Fries,1,140.00
+A-21,Iced Tea,2,50.00
+Total (After Tax + Discount) - 505.00
+
+

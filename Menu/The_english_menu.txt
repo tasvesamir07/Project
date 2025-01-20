@@ -1,0 +1,13 @@
+1,Scotch Egg,50.00
+2,Prawn Cocktail,300.00
+3,Leek and Potato Soup,170.00
+4,Fish and Chips,200.00
+5,Beef Wellington,450.00
+6,Shepherd’s Pie,250.00
+7,Roasted beef,600.00
+8,Roasted vegetables,230.00
+9,Roasted lamb,800.00
+10,Roasted potatoe,180.00
+11,Toffee Pudding,320.00
+12,Bread-Butter Pudding,400.00
+13,English Breakfast Tea,80.00

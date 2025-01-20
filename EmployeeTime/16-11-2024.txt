@@ -1,0 +1,3 @@
+Employee ID : 2222
+Entry Time: 04:04 PM | Departure Time: 04:06 PM
+

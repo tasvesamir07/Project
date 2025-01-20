@@ -1,0 +1,3 @@
+Employee ID : 1111
+Entry Time: 02:26 PM | Departure Time: 02:39 PM
+

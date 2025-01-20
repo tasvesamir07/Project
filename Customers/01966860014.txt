@@ -1,0 +1,14 @@
+29-11-2024 , 03:05 PM
+
+Customer Name: Samia                      ,Appear : 1
+
+B-1,Alu Puri,1,15.00
+Total (After Tax + Discount) - 15.00
+
+
+29-11-2024 , 03:05 PM
+
+Customer Name: samia                      ,Appear : 2
+
+B-2,Shingara,5,100.00
+Total (After Tax + Discount) - 103.00

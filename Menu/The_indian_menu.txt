@@ -1,0 +1,16 @@
+1,Paneer Tikka,150.00
+2,Aloo Tikki Chaat,90.00
+3,Papdi Chaat,80.00
+4,Butter Chicken,400.00
+5,Rogan Josh(lamb curry),750.00
+6,Vegetable Biryani,350.00
+7,Saag Paneer,180.00
+8,Chole(Chickpea Curry),210.00
+9,Naan,30.00
+10,Raita,45.00
+11,Basmati Rice,80.00
+12,Gulab Jamun,50.00
+13,Jalebi,40.00
+14,Masala Chai(Spiced tea),65.00
+15,Mango Lassi,160.00
+16,Paw Vaji,30.00
